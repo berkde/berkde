@@ -16,24 +16,20 @@ _Local-first Resume Matching + Feedback AI Platform_
 
 ## Projects & Highlights
 
-- 🔍 [**NYC House Price Prediction**](https://github.com/berkde/NYC-House-Price-Prediction-App)  
+-  [**NYC House Price Prediction**](https://github.com/berkde/NYC-House-Price-Prediction-App)  
   Regression modeling + feature engineering on NYC real estate data
 
-- 🐦 [**BirdCLEF 2025 Submission**](https://github.com/berkde/BirdCLEF-2025)  
+
+-  [**BirdCLEF 2025 Submission**](https://github.com/berkde/BirdCLEF-2025)  
   Audio-based bird species detection using PyTorch and soundscapes
 
-- ⚙️ [**MySQL Batch Writer**](https://github.com/berkde/mysql-batch-writer)  
-  High-performance data loader with Java Virtual Threads, optimized for 1B+ row inserts
 
-- 📄 [**Resume Ranking Toolkit**](https://github.com/berkde/resume-ranker-lib)  
-  Lightweight Python library for evaluating resumes against job descriptions
+- ️ [**Post Training integer Quantization**](https://github.com/berkde/Deep-Learning-Post-Training-integer-Quantization-with-8-Bit-Precision-Using-Min-Max)  
+  This project demonstrates how to train a TensorFlow model to recognize handwritten digits from the MNIST dataset and then optimize it for deployment using TensorFlow Lite.
 
----
 
-## 📌 Other Work
-
-- 💾 [Large Dataset Insertion with Apache Spark](https://github.com/berkde/big-data-spark-inserter)  
-  Scalable CSV → DB ingestion with partition tuning
+-  [**NYC Airbnb Host Popularity Prediction**](https://github.com/berkde/New-York-City-Airbnb)  
+  The notebook constructs a custom popularity score using review volume, listing price, and recent activity, making this a valuable tool for host performance analytics.
 
 ---
 
