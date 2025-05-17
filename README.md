@@ -35,15 +35,11 @@ _Local-first Resume Matching + Feedback AI Platform_
 - 💾 [Large Dataset Insertion with Apache Spark](https://github.com/berkde/big-data-spark-inserter)  
   Scalable CSV → DB ingestion with partition tuning
 
-- 🛡️ [Security Policy Template](https://github.com/berkde/NYC-House-Price-Prediction-App/blob/main/SECURITY.md)  
-  Example security documentation for open-source AI projects
-
 ---
 
 ## 💼 Professional Experience
-
-- **Air France** — Software Engineer (while studying)  
-- **Consulting, Telecom, and Insurance** — Scalable system design and deployment  
+  
+- **Defense, Consulting, Telecom, and Insurance** — Scalable system design and deployment  
 - **Academic** — M.S. @ Boston University + independent research in ML/AI
 
 ---
