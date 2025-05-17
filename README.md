@@ -10,7 +10,7 @@
 
 **[TalentMatchAI](https://github.com/berkde/talentmatchai)**  
 _Local-first Resume Matching + Feedback AI Platform_  
-→ Embedding-based scoring, resume improvement suggestions, and generative resume animations — all done locally without the cloud.
+→ Embedding-based scoring, resume improvement suggestions, and smart job matching — all done locally without the cloud.
 
 ---
 
