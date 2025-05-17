@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Berk Delibalta
+# Hi, I'm Berk Delibalta
 
-🚀 Software & Cloud Engineer | 🧠 AI Enthusiast | 💡 Aspiring YC Founder  
-🎓 M.S. in Computer Science @ Boston University  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/berkdelibalta/)
+ Software & Cloud Engineer | AI Enthusiast | Aspiring YC Founder  
+ M.S. in Computer Science @ Boston University  
+[LinkedIn Profile](https://www.linkedin.com/in/berkdelibalta/)
 
 ---
 
@@ -14,7 +14,7 @@ _Local-first Resume Matching + Feedback AI Platform_
 
 ---
 
-## 🧠 Projects & Highlights
+## Projects & Highlights
 
 - 🔍 [**NYC House Price Prediction**](https://github.com/berkde/NYC-House-Price-Prediction-App)  
   Regression modeling + feature engineering on NYC real estate data
@@ -39,7 +39,7 @@ _Local-first Resume Matching + Feedback AI Platform_
 
 ## 💼 Professional Experience
   
-- **Defense, Consulting, Telecom, and Insurance** — Scalable system design and deployment  
+- **Defense, Consulting, Telecom, and Insurance, IT Consulting** — Scalable system design and deployment  
 - **Academic** — M.S. @ Boston University + independent research in ML/AI
 
 ---
@@ -48,8 +48,4 @@ _Local-first Resume Matching + Feedback AI Platform_
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/berkdelibalta/)
 - 📧 berkdelibalta@gmail.com
-
----
-
-_“Build with purpose. Deploy with vision.”_
 
