@@ -31,6 +31,9 @@ _Local-first Resume Matching + Feedback AI Platform_
 -  [**NYC Airbnb Host Popularity Prediction**](https://github.com/berkde/New-York-City-Airbnb)  
   The notebook constructs a custom popularity score using review volume, listing price, and recent activity, making this a valuable tool for host performance analytics.
 
+-  [**Audio Classifier AI**](https://github.com/berkde/Audio-Classifier-AI.git)  
+  This project classifies raw .wav audio recordings of animals into cat, dog, or bird using a custom CNN model trained on mel spectrograms.
+
 ---
 
 ## 💼 Professional Experience
