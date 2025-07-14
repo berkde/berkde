@@ -1,16 +1,23 @@
 # Hi, I'm Berk Delibalta
 
+<p align="center">
+  <img src="https://images.pexels.com/photos/40142/new-york-skyline-manhattan-hudson-40142.jpeg" width="1000" style="border-radius:50%;"/>
+</p>
+
  Software & Cloud Engineer | AI Enthusiast | Aspiring YC Founder  
  M.S. in Computer Science @ Boston University  
 [LinkedIn Profile](https://www.linkedin.com/in/berkdelibalta/)
 
 ---
 
-## 🔧 Currently Building
+##  Currently Building
 
-**[TalentMatchAI](https://github.com/berkde/talentmatchai)**  
-_Local-first Resume Matching + Feedback AI Platform_  
-→ Embedding-based scoring, resume improvement suggestions, and smart job matching — all done locally without the cloud.
+**[TestMind](https://github.com/berkde/testmind)**  
+TestMIND  s an AI-assisted tool designed to generate structured software test cases from natural language feature descriptions.
+
+**[ResonanceAI](https://github.com/berkde/resonance-ai)**  
+Resonance AI is a privacy-first, AI-powered hiring platform that automates the end-to-end recruitment pipeline — from candidate intake and resume-job fit analysis to intelligent ranking, feedback generation, interview scheduling, and onboarding.
+
 
 ---
 
@@ -36,15 +43,14 @@ _Local-first Resume Matching + Feedback AI Platform_
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
   
 - **Defense, Consulting, Telecom, and Insurance, IT Consulting** — Scalable system design and deployment  
 - **Academic** — M.S. @ Boston University + independent research in ML/AI
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/berkdelibalta/)
 - 📧 berkdelibalta@gmail.com
-
