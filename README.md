@@ -10,17 +10,6 @@
 
 ---
 
-##  Currently Building
-
-**[TestMind](https://github.com/berkde/testmind)**  
-TestMIND  s an AI-assisted tool designed to generate structured software test cases from natural language feature descriptions.
-
-**[ResonanceAI](https://github.com/berkde/resonance-ai)**  
-Resonance AI is a privacy-first, AI-powered hiring platform that automates the end-to-end recruitment pipeline — from candidate intake and resume-job fit analysis to intelligent ranking, feedback generation, interview scheduling, and onboarding.
-
-
----
-
 ## Projects & Highlights
 
 -  [**NYC House Price Prediction**](https://github.com/berkde/NYC-House-Price-Prediction-App)  
