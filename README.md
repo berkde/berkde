@@ -57,6 +57,11 @@ His academic and professional work emphasize the integration of AI methodologies
 
 ---
 
+## Research Interests
+Reinforcement Learning • AI Agents • Distributed Systems • Cloud Infrastructure • High-Performance Computing
+
+---
+
 ## Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/berkdelibalta/)  
