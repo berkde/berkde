@@ -14,10 +14,14 @@ His academic and professional work emphasize the integration of AI methodologies
   B.Eng. in Computer Engineering @ <b>Politecnico di Torino</b>
 </p>
 
+  
 <p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+
+
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/1920px-Boston_University_seal.svg.png" height="60" alt="Boston University Logo"/>
-  </a>
+  </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/it/thumb/4/47/Logo_PoliTo_dal_2021_blu.png/2880px-Logo_PoliTo_dal_2021_blu.png" height="60" alt="Politecnico di Torino Logo"/>
