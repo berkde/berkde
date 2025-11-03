@@ -34,11 +34,15 @@ His academic and professional work emphasize the integration of AI methodologies
 
 ## Projects & Highlights
 
-- [**FastTD3**](https://github.com/berkde/FastTD3)
-  This is a C++ implementation of the FastTD3 algorithm, a high-performance variant of the Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm optimized for complex humanoid control tasks.
+
+- [**FindYourDreamHouseAI**](https://github.com/berkde/findYourDreamHouseAI)  
+  A modern, secure, and scalable application for real estate management.
 
 - [**TestMind**](https://github.com/berkde/testmind)  
   AI-assisted test case generator using NLP, FastAPI and OpenAI
+
+- [**FastTD3**](https://github.com/berkde/FastTD3)
+  This is a C++ implementation of the FastTD3 algorithm, a high-performance variant of the Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm optimized for complex humanoid control tasks.
 
 - [**NYC House Price Prediction**](https://github.com/berkde/NYC-House-Price-Prediction-App)  
   Regression modeling + feature engineering on NYC real estate data
