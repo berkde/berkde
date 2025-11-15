@@ -54,7 +54,7 @@ Generates complete test suites (positive/negative/edge cases) from English requi
 - React UI + full backend workflow  
 ➡️ *LLM workflow engineering + full-stack + testing automation*
 
-https://github.com/berkde/testmind
+🔗 https://github.com/berkde/testmind
 
 ---
 
