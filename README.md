@@ -1,76 +1,108 @@
 # Berk Delibalta
 
-Berk Delibalta is currently pursuing a Master of Science in Computer Science at Boston University, where his studies and research focus on Artificial Intelligence, Reinforcement Learning, and Intelligent Systems Engineering.
-He holds a Bachelor of Engineering in Computer Engineering from the Politecnico di Torino, where he developed a strong foundation in software architecture, control automation and algorithms.
-His academic and professional work emphasize the integration of AI methodologies with large-scale software and cloud infrastructures, aiming to advance the design of autonomous, data-driven, and high-performance computing systems.
+**AI & Software Engineer | Backend • Cloud • LLMs • Reinforcement Learning**
 
-<!-- <p align="center">
-  <img src="https://images.pexels.com/photos/40142/new-york-skyline-manhattan-hudson-40142.jpeg" width="1000" style="border-radius:50%;"/>
-</p> -->
+I build production-ready systems at the intersection of **Backend Engineering**, **Cloud Architecture**, and **Artificial Intelligence**.  
+My work spans:
+- High-performance Java & Python backend systems  
+- Cloud-native architectures on AWS  
+- Agentic AI systems (LLM tool-calling, reasoning pipelines, workflow orchestration)  
+- Reinforcement Learning algorithms with C++/LibTorch  
+- Scalable, intelligent applications deployed end-to-end
+
+I’m currently completing my **M.S. in Computer Science at Boston University**, and previously earned a **B.Eng. in Computer Engineering** from Politecnico di Torino.
+
+---
 
 <p align="center">
-  <b>Software, Cloud and AI Engineer</b><br>
-  M.S. in Computer Science @ <b>Boston University</b><br>
-  B.Eng. in Computer Engineering @ <b>Politecnico di Torino</b>
+  <b>Software • Cloud • AI Engineering</b><br>
 </p>
 
-  
 <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
-
-
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/1920px-Boston_University_seal.svg.png" height="60" alt="Boston University Logo"/>
-  </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/it/thumb/4/47/Logo_PoliTo_dal_2021_blu.png/2880px-Logo_PoliTo_dal_2021_blu.png" height="60" alt="Politecnico di Torino Logo"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/1920px-Boston_University_seal.svg.png" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/it/thumb/4/47/Logo_PoliTo_dal_2021_blu.png/2880px-Logo_PoliTo_dal_2021_blu.png" height="60"/>
 </p>
 
-[LinkedIn Profile](https://www.linkedin.com/in/berkdelibalta/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/berkdelibalta/"><b>LinkedIn</b></a>
+</p>
 
 ---
 
-## Projects & Highlights
+# Featured Projects  
 
+### **FindYourDreamHouseAI** — AI-Powered Real Estate Search  
+**Spring Boot • Redis • Postgres • Ollama • LLM Agents • RL Ranking**  
+A full AI-driven platform that processes natural-language queries, images, and metadata to recommend real estate listings using:
+- Multi-agent LLM workflows  
+- Custom RL-based ranking engine  
+- Vector search + deep embeddings  
+- Secure, scalable Spring Boot backend  
+➡️ *Agentic AI + backend engineering + cloud deployment*
 
-- [**FindYourDreamHouseAI**](https://github.com/berkde/findYourDreamHouseAI)  
-  A modern, secure, and scalable application for real estate management.
-
-- [**TestMind**](https://github.com/berkde/testmind)  
-  AI-assisted test case generator using NLP, FastAPI and OpenAI
-
-- [**FastTD3**](https://github.com/berkde/FastTD3)
-  This is a C++ implementation of the FastTD3 algorithm, a high-performance variant of the Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm optimized for complex humanoid control tasks.
-
-- [**NYC House Price Prediction**](https://github.com/berkde/NYC-House-Price-Prediction-App)  
-  Regression modeling + feature engineering on NYC real estate data
-
-- [**Post Training Integer Quantization**](https://github.com/berkde/Deep-Learning-Post-Training-integer-Quantization-with-8-Bit-Precision-Using-Min-Max)  
-  Demonstrates TensorFlow model optimization with TensorFlow Lite for deployment.
-
-- [**NYC Airbnb Host Popularity Prediction**](https://github.com/berkde/New-York-City-Airbnb)  
-  Custom host popularity scoring via review volume, pricing, and activity metrics.
-
-- [**Audio Classifier AI**](https://github.com/berkde/Audio-Classifier-AI.git)  
-  CNN-based classification of animal sounds (cat, dog, bird) using mel spectrograms.
+🔗 https://github.com/berkde/findYourDreamHouseAI
 
 ---
 
-## Professional Experience
+### **TestMIND** — AI Test Case Generator  
+**Python • FastAPI • React • OpenAI • CI/CD**  
+Generates complete test suites (positive/negative/edge cases) from English requirement descriptions. Includes:
+- Intelligent parsing + reasoning pipelines  
+- AllPairs combinatorial reduction  
+- Speech-to-text input  
+- React UI + full backend workflow  
+➡️ *LLM workflow engineering + full-stack + testing automation*
 
-- **Defense, Consulting, Telecom, and Insurance, IT Consulting** — Scalable system design and deployment  
-- **Academic** — M.S. @ Boston University + independent research in ML/AI  
+https://github.com/berkde/testmind
 
 ---
 
-## Research Interests
-Reinforcement Learning • AI Agents • Distributed Systems • Cloud Infrastructure • High-Performance Computing
+### **FastTD3** — High-Performance RL Algorithm  
+**C++ • LibTorch • MuJoCo • HPC**  
+A production-grade TD3 implementation with:
+- Eigen-based + PyTorch-based versions  
+- Continuous-action humanoid control  
+- Simulation acceleration with MuJoCo  
+- Full CI/CD and unit testing  
+➡️ *Reinforcement learning + C++ systems + performance engineering*
+
+🔗 https://github.com/berkde/FastTD3
 
 ---
 
-## Contact Me
+### Additional Projects  
+- **NYC House Price Prediction** — XGBoost/RF stacked model + Streamlit app  
+- **Audio Classifier AI** — CNN on mel spectrograms  
+- **TensorFlow Integer Quantization** — TFLite model optimization  
+- **NYC Airbnb Popularity Prediction** — ML ranking pipeline  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/berkdelibalta/)  
-- 📧 berkdelibalta@gmail.com
+---
+
+# Technical Areas  
+**Backend Engineering:** Java, Spring Boot, Python, FastAPI, Redis, Postgres, Kafka  
+**Cloud Engineering:** AWS Lambda, Step Functions, DynamoDB, S3, RDS, EC2, VPC  
+**AI Engineering:** LLM application design, agentic AI workflows, prompt engineering  
+**ML/RL:** TD3, PPO, continuous control, LibTorch, MuJoCo simulations  
+**DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions, distributed tracing  
+
+---
+
+# Professional Experience  
+- **Deloitte** — Cloud Software Engineer  
+- **Zurich Insurance** — Software Engineer  
+- **Thales** — Backend & C++ Engineer (Defense/Telecom)  
+- **IBM** — Software Engineer (Watson Cloud)  
+- **Boston University** — Reinforcement Learning Researcher  
+
+---
+
+# Contact  
+- 📧 **berkdelibalta@gmail.com**  
+- 🔗 **linkedin.com/in/berkdelibalta**  
+
+---
+
+<p align="center">
+  <i>Building intelligent, scalable, and production-ready AI systems.</i>
+</p>
