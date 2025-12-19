@@ -10,7 +10,7 @@ My work spans:
 - Reinforcement Learning algorithms with C++/LibTorch  
 - Scalable, intelligent applications deployed end-to-end
 
-I’m currently completing my **M.S. in Computer Science at Boston University**, and previously earned a **B.Eng. in Computer Engineering** from Politecnico di Torino.
+I earned my **M.S. in Computer Science at Boston University**, and previously earned a **B.Eng. in Computer Engineering** from Politecnico di Torino.
 
 ---
 
