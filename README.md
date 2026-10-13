@@ -25,6 +25,10 @@ I earned my **M.S. in Computer Science at Boston University**, and previously ea
 </p>
 
 <p align="center">
+  <a href="https://www.berkdelibalta.com"><b>Portfolio</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/berkde"><b>GitHub</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/berkdelibalta/"><b>LinkedIn</b></a>
 </p>
 
@@ -97,9 +101,11 @@ A production-grade TD3 implementation with:
 
 ---
 
-# Contact  
-- 📧 **berkdelibalta@gmail.com**  
-- 🔗 **linkedin.com/in/berkdelibalta**  
+# Contact
+
+- 🌐 **Portfolio:** [berkdelibalta.com](https://www.berkdelibalta.com)
+- 📧 **Email:** [berkdelibalta@gmail.com](mailto:berkdelibalta@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/berkdelibalta](https://www.linkedin.com/in/berkdelibalta/)
 
 ---
 
