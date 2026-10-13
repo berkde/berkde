@@ -21,7 +21,7 @@ I earned my **M.S. in Computer Science at Boston University**, and previously ea
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/1920px-Boston_University_seal.svg.png" height="60"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Politecnico_di_Torino_%28Italian_University%29.png" height="60"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/it/thumb/4/47/Logo_PoliTo_dal_2021_blu.png/500px-Logo_PoliTo_dal_2021_blu.png?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" height="60"/>
 </p>
 
 <p align="center">
